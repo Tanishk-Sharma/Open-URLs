@@ -73,7 +73,7 @@ You can download the Standalone .exe file and double click it. For Windows OS on
 ## Usage
 
 * Open the application.
-* Enter URLs into the Text box
+* Enter URLs into the Text box.
 * Click on 'Open URLs' button at the bottom.
 * The application will open each URL in a new tab of your Default Browser.
 * The application will close by itself after all URLs are loaded.
