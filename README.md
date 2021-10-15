@@ -12,11 +12,8 @@
 <br />
 <div align="center">
     <img src="https://user-images.githubusercontent.com/32167236/137460481-3b7fb839-a59f-4c38-b24b-99088982a42d.png">
-
-  <h3 align="center">Open URLs</h3>
-
   <p align="center">
-    Simple tool to open multiple URLs in your web browser at the click of a button!
+     A simple tool to open multiple URLs in your web browser at the click of a button!
   </p>
   <p align="center">
     This Repository contains the script as well as the standalone version for Windows.
