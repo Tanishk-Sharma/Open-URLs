@@ -43,7 +43,7 @@
 ![logo](https://user-images.githubusercontent.com/32167236/137458368-473ce346-d295-4476-9eeb-2a51ab7cd3a9.png)
 
 There can be times when we need to open many URLs but copy-paste every URL in a single tab and then opening another tab is just too tiring.
-Instead, using python's webbroswer package, we can simple loop through our list of URLs and let the application open them for us.
+Instead, using python's webbroswer package, we can simply loop through our list of URLs and let the application open them for us.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -73,7 +73,7 @@ You can download the Standalone .exe file and double click it. For Windows OS on
 ## Usage
 
 * Open the application.
-* Enter URLs into the Text box.
+* Paste the URLs into the Text box. Each URL should be in a new line.
 * Click on 'Open URLs' button at the bottom.
 * The application will open each URL in a new tab of your Default Browser.
 * The application will close by itself after all URLs are loaded.
