@@ -56,6 +56,9 @@ The tool is very simple and built with the following:
 * [webbrowser](https://docs.python.org/3/library/webbrowser.html)
 * [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/index.html)
 
+Command used to build standalone:
+```pyinstaller --clean --onefile --name="Open URLs" --icon="logo.ico" --noconsole application.py ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Getting Started
