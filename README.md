@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/32167236/137460481-3b7fb839-a59f-4c38-b24b-99088982a42d.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/32167236/137460481-3b7fb839-a59f-4c38-b24b-99088982a42d.png">
 
   <h3 align="center">Open URLs</h3>
 
