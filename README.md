@@ -78,4 +78,4 @@ You can download the Standalone .exe file and double click it. For Windows OS on
 * The application will open each URL in a new tab of your Default Browser.
 * The application will close by itself after all URLs are loaded.
 
-Note: If present, empty lines in input are skipped.
+Note: If empty lines are present in the input - they will be skipped.
